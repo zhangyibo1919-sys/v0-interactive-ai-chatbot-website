@@ -17,7 +17,7 @@ export const personalities: Personality[] = [
     icon: Brain,
     color: "text-purple-500",
     bgColor: "bg-purple-500/10",
-    webhookEnvKey: "https://yibo456.app.n8n.cloud/webhook/a889d2ae-2159-402f-b326-5f61e90f602e/chat",
+    webhookEnvKey: "https://yibo456.app.n8n.cloud/webhook/47d41003-2ed6-4db8-95b5-d61668795d61",
   },
   {
     id: "conscientiousness",
